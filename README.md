@@ -1,4 +1,4 @@
-### Olá, eu sou o Ewerton Corrêa 👋
+### Olá, eu sou Ewerton Corrêa!
 
 - 🔭 Hoje trabalho com Data Analytics
 - 🌱 Estou estudando Python e SQL
