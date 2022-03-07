@@ -28,3 +28,7 @@
   <a href="https://steamcommunity.com/id/zikaskins/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>   
  
 </div>
+ 
+  ##
+  
+  <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=ewertoncorrea__&layout=wide&show_reply=off&show_retweet=off" />
