@@ -1,6 +1,5 @@
 ### Olá, eu sou Ewerton Corrêa!
 
-- 🔭 Hoje trabalho com Data Analytics
 - 🌱 Estou estudando Python, SQL, Django, MongoDB, AWS, Spark, Azure
 - 😄 Pronomes: ele/dele
 
