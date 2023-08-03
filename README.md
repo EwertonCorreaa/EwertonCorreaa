@@ -1,6 +1,6 @@
 ### Olá, eu sou Ewerton Corrêa!
 
-- 🌱 Estou estudando Python, SQL, Django, MongoDB, AWS, Spark, Azure
+- 🌱 Estou estudando Swift iOS, SQL, CocoaPods
 - 😄 Pronomes: ele/dele
 
 ##
@@ -14,10 +14,6 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
-  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
-  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
  </div>
   
   ##
@@ -31,6 +27,3 @@
  
 </div>
  
-  ##
-  
-  <img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=ewertoncorrea__&layout=wide&show_reply=off&show_retweet=off" />
