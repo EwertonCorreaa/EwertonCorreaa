@@ -15,11 +15,8 @@
  
 ### Github Stats
 
-<div align="center">
-  <a href="https://github.com/ewertoncorreaa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ewertoncorreaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertoncorreaa&layout=compact&langs_count=7&theme=dark"/>
-</div>
+![Ewerton's Status](https://github-readme-stats.vercel.app/api?username=ewertoncorreaa&show_icons=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewertoncorreaa&hide_progress=true)
 
   ##
   
@@ -31,4 +28,4 @@
   ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  
+
